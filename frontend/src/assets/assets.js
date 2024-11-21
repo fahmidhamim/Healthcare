@@ -2,7 +2,7 @@ import appointment_img from './appointment_img.png'
 import header_img from './header_img.png'
 import group_profiles from './group_profiles.png'
 import profile_pic from './profile_pic.png'
-import contact_image from './contact_image.png'
+import contact_image from './contact_image.jpg'
 
 import about_image from './about_image.jpg'
 import logo from './logo.svg'
@@ -288,7 +288,7 @@ export const doctors = [
     
     {
         _id: 'doc3',
-        name: 'Dr. Md. Asaduzzaman Reyan',
+        name: 'Dr. Md. Asaduzzaman',
         image: doc3,
         speciality: 'Dermatologist',
         degree: 'MBBS',
