@@ -11,7 +11,7 @@ const Header = () => {
                     WELCOME <br /> TO <br />HEALTHCARE
                 </p>
                 <p className='text-2xl md:text-3xl lg:text-3xl text-gray-900 font-semibold leading-tight md:leading-tight lg:leading-tight'>
-                    Book Appointment  <br /> With Trusted Doctors
+                    The Most Accurate and  <br /> Timely Local Diagnostic <br /> Imaging Specialists
                 </p>
                 <div className='flex flex-col md:flex-row items-center gap-3 text-white text-sm font-light'>
                     <img className='w-28' src={assets.group_profiles} alt="" />
